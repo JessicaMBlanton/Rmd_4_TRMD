@@ -11,9 +11,9 @@ Provide students with hands on experience with:
 
 **Products of this Repo:**
 
-- Create instructional materials to use for teaching concepts
-- Create template checklist for instructors and students around Reproducibility and ethics
-- Create a template .Rmd that instructors may offer to students
+- Create instructional materials from which to teach concepts
+- Create template checklist for instructors and students around openness, reproducibility, and ethics
+- Create a template .Rmd that instructors may customize 
 
 
 
